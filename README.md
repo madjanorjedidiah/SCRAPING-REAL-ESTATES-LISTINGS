@@ -20,10 +20,8 @@ This will help you have a visualisation of what is happening.
 until finished you should see data scraped into this table format.
 ```
 
-property   beds     showers     garages      area          description     price     currency  rent_period  url   #address 
+property   beds     showers     garages      area          description     price     currency  rent_period  url   address 
 
-#Property #of beds #of showers #of garages  #Sizeofproperty #Description  #priceProperty #$,GHS  #month/year #Url  #listingAddress
-name   
 
 
 ## Running the tests
