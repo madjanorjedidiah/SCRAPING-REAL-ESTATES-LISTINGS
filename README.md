@@ -4,7 +4,7 @@ This is a python script that scrapes for information from meqasa and outputs a C
 
 ## Getting Started
 
-Download the file unto your local device. Run the script file in a jupyter notebook to be able to visualize it.
+Download the project unto your local device. Run the script file in a jupyter notebook to be able to visualize it.
 
 ### Prerequisites
 
