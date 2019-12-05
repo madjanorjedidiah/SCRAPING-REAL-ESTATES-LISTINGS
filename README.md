@@ -8,7 +8,7 @@ Download the project unto your local device. Run the script file in a jupyter no
 
 ### Prerequisites
 
-First and foremost, use the requirements.txt file to install the dependencies needed to run this file. After you can run this file.
+First and foremost, use the requirements.txt file to install the dependencies needed to run this file. After you can run this project.
 
 
 ### Installing
@@ -17,7 +17,7 @@ Start by opening your terminal and going into your virtual environment to instal
 This will help you have a visualisation of what is happening.
 
 ```
-until finished you should see data scraped into this table format.
+until finished you should see data scraped into this table column format.
 ```
 
 property   beds     showers     garages      area          description     price     currency  rent_period  url   address 
