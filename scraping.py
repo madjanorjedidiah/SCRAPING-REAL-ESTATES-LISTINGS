@@ -65,3 +65,5 @@ for a in listings:
 
 #    dataframe of scraped data
 df = pd.DataFrame(real_estate)
+
+df_csv = df.to_csv('real_estate.csv', index = None, header=True)
